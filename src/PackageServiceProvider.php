@@ -35,7 +35,6 @@ class PackageServiceProvider extends ServiceProvider
             ], 'package-name-views');
         }
 
-
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'package-name');
 
         $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
