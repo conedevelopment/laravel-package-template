@@ -15,15 +15,15 @@
     ],
     "require": {
         "php": "^8.3 || ^8.4",
-        "laravel/framework": "^11.0"
+        "laravel/framework": "^12.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
-        "laravel/laravel": "^10.16",
+        "laravel/laravel": "^12.0",
         "laravel/pint": "^1.6",
-        "mockery/mockery": "^1.4.4",
-        "larastan/larastan": "^2.7.0",
-        "phpunit/phpunit": "^10.2.5"
+        "mockery/mockery": "^1.6",
+        "larastan/larastan": "^3.4",
+        "phpunit/phpunit": "^11.5.3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
